@@ -1,4 +1,5 @@
 ## How To Removed A "Terminating" Namespace
+#### To safely remove OpenShift Container Storage from VMware : https://access.redhat.com/documentation/en-us/red_hat_openshift_container_storage/4.6/html/deploying_openshift_container_storage_on_vmware_vsphere/assembly_uninstalling-openshift-container-storage_rhocs
 
 See YouTube Video Demo: https://youtu.be/ebxbJcyMD-o
 
