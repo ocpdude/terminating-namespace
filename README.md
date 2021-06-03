@@ -4,7 +4,7 @@
 See YouTube Video Demo: https://youtu.be/ebxbJcyMD-o
 
 If you know you have removed everything and still cannot seem to get the project/namespace to delete, you can force it with these procedures. 
-Please note, it's not recommended in production. I you have a situation like this, please contact Red Hat Support.
+Please note, it's not recommended in production. If you have a situation like this, please contact Red Hat Support.
 
 1. `oc get ns $NAMESPACE -o yaml > $FILENAME.yaml`
 2. `vi $FILENAME.yaml` \
